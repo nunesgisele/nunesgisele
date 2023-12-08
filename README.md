@@ -1,4 +1,8 @@
-Olá meu nome é Gisele Nunes
+## Boas vindas ao meu perfil 
 
-Estou me desenvolvendo na linguagem JavaScript e utilizo [P5.js](https://p5js.org/) para programar.
+Meu nome é Gisele Nunes
+
+- Estou me desenvolvendo na linguagem JavaScript
+
+- Utilizo esse espaço para compartilhar meus projetos desenvolvidos
 
