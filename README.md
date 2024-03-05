@@ -2,9 +2,9 @@
 
 Meu nome é Gisele Nunes
 
-- Estou estudando na ALURA
-  
-- Estou me desenvolvendo na linguagem JavaScript, Python...
+- Docente na disciplina de Matematica II - Programação
 
-- Utilizo esse espaço para compartilhar meus projetos desenvolvidos com a orientação dos tutores do curso Alura.
+- Curso base da plataforma AluraStart e Curso em Video: HTML5 e CSS3
+  
+
 
